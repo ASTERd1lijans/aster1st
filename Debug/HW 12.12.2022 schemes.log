@@ -1,0 +1,4 @@
+﻿  HW 12.12.2022 schemes.cpp
+E:\C++ projects\HW 12.12.2022 schemes\HW 12.12.2022 schemes.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\C++ projects\HW 12.12.2022 schemes\HW 12.12.2022 schemes.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW 12.12.2022 schemes.vcxproj -> E:\C++ projects\HW 12.12.2022 schemes\Debug\HW 12.12.2022 schemes.exe
