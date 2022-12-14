@@ -83,7 +83,6 @@ void Draw(HWND hwnd) {
         g = 0 + rand() % 255;
         r = 0 + rand() % 255;
         y_upside = 100 + rand() % 500;
-
         HBRUSH brush = CreateSolidBrush(RGB(r, b, g));
         SelectBrush(hdc, brush);
         Rectangle(hdc, x_left, y_upside, x_right, y_below);
